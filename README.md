@@ -1,3 +1,5 @@
+![brazil](https://github.com/pedromxavier/flag-badges/raw/main/badges/BR.svg)
+
 Este código LaTex calcula a composição de duas funções, `f(x)` e `g(x)`, especificamente `f(g(x))`, que é denotado como `fof(x)`.
 
 ## **Funções**
@@ -5,7 +7,8 @@ Este código LaTex calcula a composição de duas funções, `f(x)` e `g(x)`, es
 * `f(x) = 2x - 3`: Esta função representa uma relação linear, onde a saída (`y`) é obtida multiplicando a entrada (`x`) por 2 e subtraindo 3.
 * `g(x) = x^2 - 1`: Esta função representa uma relação quadrática, onde a saída (`y`) é elevada ao quadrado e então 1 é subtraído.
 
-## **Cálculo de composição**
+## **Cálculo de composição** 
+
 
 O código calcula `fof(x)`, que envolve a aplicação de `f` à saída de `g(x)`. Passo a passo do processo:
 
@@ -17,6 +20,6 @@ O código calcula `fof(x)`, que envolve a aplicação de `f` à saída de `g(x)`
 
 A composição de `f` e `g`, `fof(x)`, é igual a `4x - 9`. Isso significa que se você aplicar `f` à saída de `g(x)`, você obterá esta expressão linear.
 
-## **Imagem**
+## **Imagem**  
 
 ![img](https://github.com/DeiseFreire/Q-211230052024/blob/main/img.png)
