@@ -17,3 +17,5 @@ O código calcula `fof(x)`, que envolve a aplicação de `f` à saída de `g(x)`
 
 A composição de `f` e `g`, `fof(x)`, é igual a `4x - 9`. Isso significa que se você aplicar `f` à saída de `g(x)`, você obterá esta expressão linear.
 
+## **Imagem**
+
