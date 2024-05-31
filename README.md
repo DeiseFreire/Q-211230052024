@@ -19,3 +19,4 @@ A composição de `f` e `g`, `fof(x)`, é igual a `4x - 9`. Isso significa que s
 
 ## **Imagem**
 
+![img](https://github.com/DeiseFreire/Q-211230052024/blob/main/img.png)
